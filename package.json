@@ -1,0 +1,11 @@
+{
+  "name": "microjobs",
+  "version": "1.0.0",
+  "description": "a micro framework for jobs",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "irelance",
+  "license": "ISC"
+}
